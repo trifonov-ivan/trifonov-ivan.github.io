@@ -1,0 +1,17 @@
+{
+"activitycontinuation": {
+    "apps": [
+     "53APD5F9YQ.com.ios.lgi.connectivity.upc.universal"
+     ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "53APD5F9YQ.com.ios.lgi.connectivity.upc.universal",
+      "paths": ["*","/"]
+    }
+    ]
+  }
+}
+
